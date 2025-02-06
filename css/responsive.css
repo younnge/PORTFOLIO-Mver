@@ -443,7 +443,8 @@
         border-radius: 10px;
     }
     .longfilm > .right {
-        width: 100%;
+        width: 350px;
+        margin: 0 auto;
     }
     .longfilm > .right > .tabitem {
         width: 350px;
