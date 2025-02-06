@@ -449,7 +449,8 @@ header {
     border-radius: 10px;
 }
 .longfilm > .right {
-    width: 100%;
+    margin: 0 auto;
+    width: 400px;
 }
 .longfilm > .right > .tabitem {
     width: 400px;
