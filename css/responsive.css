@@ -685,7 +685,7 @@
     .introduce h1 {
         font-family: 'moon';
         color: #13203d;
-        font-size: 20px;
+        font-size: 17px;
         font-weight: bold;
         text-align: center;
         margin-top: 10px;
@@ -707,7 +707,7 @@
     }
     .introduce .sf {
         color: #fff;
-        font-size: 15px;
+        font-size: 12px;
         font-family: 'moon';
         font-weight: 500;
         text-align: right;
@@ -716,7 +716,7 @@
     }
     .introduce .ff {
         color: #fff;
-        font-size: 15px;
+        font-size: 12px;
         font-family: 'moon';
         font-weight: 500;
         text-align: left;
